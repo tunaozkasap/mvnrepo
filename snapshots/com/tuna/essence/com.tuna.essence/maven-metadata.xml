@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tuna.essence</groupId>
+  <artifactId>com.tuna.essence</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130716115359</lastUpdated>
+  </versioning>
+</metadata>
